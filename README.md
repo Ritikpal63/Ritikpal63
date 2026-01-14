@@ -17,8 +17,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 <h3>My GitHub contributions summary</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ritikpal63&theme=react&hide_border=true" alt="GitHub Streak" /></a>
+![Snake animation](https://github.com/Ritikpal63/Ritikpal63/blob/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritikpal63&theme=react)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritikpal63)](https://git.io/streak-stats)
 
