@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Everyone
 
 ![](https://komarev.com/ghpvc/?username=Ritikpal63&color=brightgreen)
 <h3>When I code, I rely on</h3>
