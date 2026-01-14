@@ -4,6 +4,8 @@
 
 [![Followers](https://img.shields.io/github/followers/Ritikpal63?label=Followers&style=for-the-badge)](https://github.com/Ritikpal63?tab=followers)
 [![Following](https://img.shields.io/badge/Following-View-blue?style=for-the-badge)](https://github.com/Ritikpal63?tab=following)
+![Followers](https://github-readme-stats.vercel.app/api?username=Ritikpal63&hide=issues,prs&show_icons=true&theme=react)
+
 
 
 <h3>When I code, I rely on</h3>
