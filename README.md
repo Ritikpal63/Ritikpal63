@@ -19,4 +19,5 @@
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritikpal63&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritikpal63)](https://git.io/streak-stats)
 
