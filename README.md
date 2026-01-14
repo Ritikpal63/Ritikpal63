@@ -17,6 +17,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 <h3>My GitHub contributions summary</h3>
-![Snake animation](https://github.com/Ritikpal63/Ritikpal63/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ritikpal63/Ritikpal63/output/github-contribution-grid-snake.svg)
 
 
