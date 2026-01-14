@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=Ritikpal63&color="lightBlue")
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
