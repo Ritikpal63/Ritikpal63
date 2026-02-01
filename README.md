@@ -1,9 +1,9 @@
 ## Hey Everyone
 
 ![](https://komarev.com/ghpvc/?username=Ritikpal63&color=brightgreen)
-
+<!--
 [![Followers](https://img.shields.io/github/followers/Ritikpal63?label=Followers&style=flat-square)](https://github.com/Ritikpal63?tab=followers)
-[![Following](https://img.shields.io/badge/Following-View-blue?style=flat-sqaure)](https://github.com/Ritikpal63?tab=following)
+[![Following](https://img.shields.io/badge/Following-View-blue?style=flat-sqaure)](https://github.com/Ritikpal63?tab=following)  -->
 
 
 
