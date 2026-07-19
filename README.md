@@ -20,7 +20,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-43853d?style=flat-square&logo=Mysql&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySql-43853d?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-07B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
